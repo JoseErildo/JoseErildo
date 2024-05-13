@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My stacks
+
 <!--
 **JoseErildo/JoseErildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![JoseErildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JoseErildo/github-readme-stats)
+[![JoseErildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseErildo&theme=radical&show_icons=true)](https://github.com/JoseErildo/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
+## Repositorios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
