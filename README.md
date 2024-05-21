@@ -7,10 +7,13 @@
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-  ![Texto alternativo](https://i.pinimg.com/1200x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)
-
 </div>
+
+- 💠AWS Cloud Pratictioner
+- 💻 Currently working with data
+- ✍ Writer at Medium
+- 😄 Pronouns: He/Him
+
 
 <div align="center">
   
