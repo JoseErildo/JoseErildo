@@ -9,12 +9,6 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </div>
 
-- 💠AWS Cloud Pratictioner
-- 💻 Currently working with data
-- ✍ Writer at Medium
-- 😄 Pronouns: He/Him
-
-
 <div align="center">
   
  My stacks
@@ -26,6 +20,14 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 </div>
+
+- 💠AWS Cloud Pratictioner
+- 💻 Currently working with data
+- ✍ Writer at Medium
+- 😄 Pronouns: He/Him
+
+
+
 
 
 
@@ -49,4 +51,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 ## Repositorios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseErildo&repo=nubank_app&theme=radical)](https://github.com/JoseErildo/nubank_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseErildo&repo=FlutterQuiz&theme=radical)](https://github.com/JoseErildo/FlutterQuiz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseErildo&repo=CadastroDeFuncionarios&theme=radical)](https://github.com/JoseErildo/CadastroDeFuncionarios)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseErildo&repo=rollthedice&theme=radical)](https://github.com/JoseErildo/rollthedice)
